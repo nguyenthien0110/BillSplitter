@@ -26,7 +26,7 @@ BillSplitter is a web application designed to streamline the process of splittin
 
 ## Getting Started
 
-To use BillSplitter, simply visit the [BillSplitter website](https://billsplitter.example.com) and follow the on-screen instructions to input your expense details and calculate the fair share for each participant.
+To use BillSplitter, simply visit the [BillSplitter website](https://nguyenthien0110.github.io/BillSplitter/) and follow the on-screen instructions to input your expense details and calculate the fair share for each participant.
 
 ## About
 
